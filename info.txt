@@ -1,0 +1,9 @@
+objeto: luminaria
+modelo: luminaria de mesa
+tensao: 110\120V
+fonte de energia: AC
+area de luminosidade: 10-15 metros quadrados
+voltagem:31-40
+base lampada: E27
+material: resina
+aplicação: quartos e salas

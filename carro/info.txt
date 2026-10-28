@@ -1,8 +1,9 @@
 CARRO
 marca: palio
 modelo: 2017\17
-cor: prata
+cor: prata com preto
 motor: 1.0 fire flex 
 cambio: manual 5 marchas
 porta-malas: 290 litros
 consumo médio:(gasolina)
+

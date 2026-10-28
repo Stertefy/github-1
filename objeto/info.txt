@@ -1,1 +1,4 @@
 objeto
+luminaria
+azul
+lampada grande 
